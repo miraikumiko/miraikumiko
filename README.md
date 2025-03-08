@@ -12,26 +12,18 @@ Here are my example works:
 
 ## Beauty salon
 
-[Live Demo](https://mk-beauty-salon.netlify.app)
+[Live Demo](https://beauty-salon.miraikumiko.com)
 
-![Beauty Salon](https://miraikumiko.github.io/images/beauty-salon.webp "Beauty salon")
-
-## Corp site
-
-![Corp site](https://miraikumiko.github.io/images/corp.webp "Corp site")
-
-## Portfolio
-
-![Portfolio](https://miraikumiko.github.io/images/portfolio.webp "Portfolio")
+![Beauty Salon](https://miraikumiko.com/images/beauty-salon.webp "Beauty salon")
 
 ## Gallery
 
-[Live Demo](https://mk-gallery.netlify.app)
+[Live Demo](https://gallery.miraikumiko.com)
 
-![Gallery](https://miraikumiko.github.io/images/gallery.webp "Gallery")
+![Gallery](https://miraikumiko.com/images/gallery.webp "Gallery")
 
 ## Link Tree
 
-[Live Demo](https://mk-link-tree.netlify.app)
+[Live Demo](https://link-tree.miraikumiko.com)
 
-![Link Tree](https://miraikumiko.github.io/images/link-tree.webp "Link tree")
+![Link Tree](https://miraikumiko.com/images/link-tree.webp "Link tree")
