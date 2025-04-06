@@ -1,29 +1,7 @@
-# Web Development
+# Introduction
 
-Hihi^^
+Hello, hello! My name is Ada, let's get acquainted \o/
 
-I make minimalistic sites 🫸✨🫷
+I am a Python web developer, Linux engineer and system administrator. I host my own [social network](https://underground.pm) which based on [Misskey](https://github.com/misskey-dev/misskey). I love to travel, make new acquaintances with interesting people, play chess.
 
-The price for a static site with several pages is $50.
-
-The price for more complex sites is discussed in person)
-
-Here are my example works:
-
-## Beauty salon
-
-[Live Demo](https://beauty-salon.miraikumiko.com)
-
-![Beauty Salon](https://miraikumiko.com/images/beauty-salon.webp "Beauty salon")
-
-## Gallery
-
-[Live Demo](https://gallery.miraikumiko.com)
-
-![Gallery](https://miraikumiko.com/images/gallery.webp "Gallery")
-
-## Link Tree
-
-[Live Demo](https://link-tree.miraikumiko.com)
-
-![Link Tree](https://miraikumiko.com/images/link-tree.webp "Link tree")
+Here I maintain my projects. In addition, I have a [microblog](https://underground.pm/@miraikumiko) in which I write about everything.
